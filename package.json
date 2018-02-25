@@ -1,0 +1,26 @@
+{
+  "name": "StarWarsExpress",
+  "version": "1.0.0",
+  "description": "Star Wars character list using Express.js",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidl199/StarWarsExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidl199/StarWarsExpress/issues"
+  },
+  "homepage": "https://github.com/davidl199/StarWarsExpress#readme"
+}
